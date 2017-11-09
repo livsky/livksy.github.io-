@@ -1,7 +1,6 @@
 
-<style>
 body {
-	background: pink;
+	background-color: purple;
 	color: yellow;
 }
 p {
@@ -11,8 +10,7 @@ p {
 div.perfect p {
 
 	color: black;
-	background: orange;
+	background: blue;
 }
 
 
-</style>
