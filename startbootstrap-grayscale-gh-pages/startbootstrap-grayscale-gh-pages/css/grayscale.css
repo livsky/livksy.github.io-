@@ -100,7 +100,7 @@ a {
   padding: 200px 0;
   text-align: center;
   color: white;
-  background: url("../img/intro-bg.jpg") no-repeat bottom center scroll;
+  background: url("../img/willian-justen-de-vasconcellos-430007.jpg") no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -145,6 +145,15 @@ a {
   padding-bottom: 150px; }
 
 .animals-section {
+  color: white;
+  background: url("../img/pack of penguins backround picture.jpg") no-repeat center center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+  
+  .life-section {
   color: white;
   background: url("../img/pack of penguins backround picture.jpg") no-repeat center center scroll;
   background-color: black;
